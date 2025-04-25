@@ -7,6 +7,3 @@ Steps to be followed:
 * To run them, please comment classification to perform retrieval and vice versa.
 * To run the code for retrieval with a fresh query, update the line with query to change the input.
 
-Please use the link for model.pt
-https://drive.google.com/file/d/1CBi1s8-Sjh63cvnX3Lx-4fvxFdGmwzR0/view?usp=share_link
-
